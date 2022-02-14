@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f901b06839c044aebb6e7bfd40e56c33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StructureFileSkull: {instanceID: 0}
+  - StructureFileLegRight: {instanceID: 0}
+  - StructureFileSpine: {instanceID: 0}
+  - StructureFileFace: {instanceID: 0}
+  - StructureFileOrgans: {instanceID: 0}
+  - StructureFileLegLeft: {instanceID: 0}
+  - StructureFileHips: {instanceID: 0}
+  - StructureFileArmLeft: {instanceID: 0}
+  - StructureFileTorso: {instanceID: 0}
+  - StructureFileArmRight: {instanceID: 0}
+  - StructureFileNeck: {instanceID: 0}
+  - StructureFileBrain: {instanceID: 0}
+  - Origin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
